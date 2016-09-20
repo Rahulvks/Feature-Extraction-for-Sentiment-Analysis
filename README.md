@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Feature-Extraction And Navie Bayes Algorith for Sentiment Analysis 
+# Word Level Sentiment-Analysis-Feature-Extraction And Navie Bayes Algorith for Sentiment Analysis 
 
 
 Python code - Feature Extarction 
